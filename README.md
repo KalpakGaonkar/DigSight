@@ -10,3 +10,7 @@
 
 ## Canvas Business Model
 - Click [Here](https://github.com/KalpakGaonkar/DigSight/blob/main/Canvas%20Business%20Model/Canvas%20Business%20Model.pdf) to view the Canvas Business Model
+
+## Product Prototype
+- Includes Summary, Test Plan and Product mockup images along with user flowchart
+- Click [Here](https://github.com/KalpakGaonkar/DigSight/blob/main/Product%20Prototype/Product%20Prototype.pdf) to view the Product Prototype document
